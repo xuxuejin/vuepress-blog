@@ -9,7 +9,7 @@ npm run docs:build
 # 进入生成的文件夹
 # cd docs/.vuepress/dist
 
-mv docs/.vuepress/dist dist
+mv docs/.vuepress/dist docs/dist
 
 #git init
 git add -A
